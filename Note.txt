@@ -1,1 +1,1 @@
-Raw codes for the manuscript 'Negative Rejection Enables Energy-Efficient Resource Recovery'.
+Raw code for the manuscript 'Negative Rejection Enables Energy-Efficient Resource Recovery'.
